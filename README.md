@@ -1,0 +1,35 @@
+# 考研11408备考资料库
+
+> 目标：中国科学技术大学 人工智能与数据科学学院 085400专硕
+> 科目：政治(101) + 英语一(201) + 数学一(301) + 408计算机学科专业基础
+> 起始：2026年7月 | 初试：2026年12月
+
+## 文件结构
+
+```
+考研/
+├── 规划/
+│   ├── 考研AI方向备忘录.md      # 院校分析、导师信息、科目选择建议
+│   └── 考研11408全科备考规划.md  # 资料清单、分阶段规划、每日作息
+├── 工具/
+│   └── 考研工具箱.jsx           # React交互式工具箱（仪表盘/知识图谱/题型/错题本）
+├── 每周/
+│   └── week1-0701-0707.md       # 第一周详细待办（可导入番茄ToDo）
+└── README.md
+```
+
+## 关联GitHub仓库
+
+| 仓库 | 用途 |
+|------|------|
+| [kaoyan-math-bank](https://github.com/sjkncs/kaoyan-math-bank) | LaTeX数学题库（可预览/排序/导出PDF） |
+| [kaoyan-matth1](https://github.com/sjkncs/kaoyan-matth1) | 数学一笔记（高数Ch1-3+） |
+| [Codex-for-learning-math](https://github.com/sjkncs/Codex-for-learning-math) | 交互式数学一公式手册（465张公式卡） |
+| [408-computer-network-notes](https://github.com/sjkncs/408-computer-network-notes) | 计网408笔记（谢希仁教材+王道B站课） |
+| [408](https://github.com/sjkncs/408) | 王道408数据结构课后代码题（C++） |
+
+## 备考工具
+
+- **番茄ToDo**：专注计时打卡
+- **墨墨背单词**：考研词汇记忆
+- **B站**：王道408/张宇数学/唐迟英语/徐涛政治（全部免费）
